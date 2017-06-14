@@ -16,5 +16,12 @@ namespace ProjetGitHub
         decimal _tauxCS = 0;
         DateTime _dateNaissance;
         #endregion
+
+        #region Méthodes
+        public void nouvelle_Methode()
+        {
+            // Faite par Sylvain !
+        }
+        #endregion
     }
 }
